@@ -1,5 +1,5 @@
 /* This is a simple Java program. 
-   FileName : "HelloWorld.java". */
+   FileName : "Hello.java". */
 class Hello 
 { 
     // Your program begins with a call to main(). 
